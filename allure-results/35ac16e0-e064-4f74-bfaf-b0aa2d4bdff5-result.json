@@ -1,0 +1,85 @@
+{
+    "name": "authIsDisplayed",
+    "start": 1725047220328,
+    "stop": 1725047224392,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Загрузка страницы Авторизации",
+            "start": 1725047220527,
+            "stop": 1725047220527,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выйти из личного кабинета",
+            "start": 1725047224102,
+            "stop": 1725047224102,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "35ac16e0-e064-4f74-bfaf-b0aa2d4bdff5",
+    "historyId": "48c6b48a715f3ef24e25dcf23b56376c",
+    "fullName": "tests.AuthTests.authIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.AuthTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "authIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "tests.AuthTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(491)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
